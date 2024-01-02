@@ -238,7 +238,15 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
  -->
 <!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
 
-
+### Citation
+   
+   ```sh
+   @article{zhang2023artbank,
+   title={ArtBank: Artistic Style Transfer with Pre-trained Diffusion Model and Implicit Style Prompt Bank},
+   author={Zhang, Zhanjie and Zhang, Quanwei and Li, Guangyuan and Xing, Wei and Zhao, Lei and Sun, Jiakai and Lan, Zehua and Luan, Junsheng and Huang, Yiling and Lin, Huaizhong},
+   journal={arXiv preprint arXiv:2312.06135},
+   year={2023}}
+   ```
 
 <!-- CONTACT -->
 ## Contact
