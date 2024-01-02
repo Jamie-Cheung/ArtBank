@@ -80,7 +80,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Inversion-Based Style Transfer with Diffusion Models
+## ArtBank: Artistic Style Transfer with Pre-trained Diffusion Model and Implicit Style Prompt Bank (AAAI2024)
 
 <!-- ![teaser](./Images/teaser.png) -->
 ![teaser](./Images/teaser.jpg)
