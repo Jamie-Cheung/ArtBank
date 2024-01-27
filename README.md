@@ -255,6 +255,7 @@ Please feel free to open an issue or contact us personally if you have questions
 
 cszzj@zju.edu.cn
 
+Thank you for my co-author [Quanwei Zhang](https://github.com/zhangquanwei962) 
 
 <!-- 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
