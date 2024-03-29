@@ -247,7 +247,18 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
    journal={arXiv preprint arXiv:2312.06135},
    year={2023}}
    ```
-
+   ```sh
+   @inproceedings{zhang2024artbank,
+   title={ArtBank: Artistic Style Transfer with Pre-trained Diffusion Model and Implicit Style Prompt Bank},
+   author={Zhang, Zhanjie and Zhang, Quanwei and Xing, Wei and Li, Guangyuan and Zhao, Lei and Sun, Jiakai and Lan, Zehua and Luan, Junsheng and Huang, Yiling 
+   and Lin, Huaizhong},
+   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+   volume={38},
+   number={7},
+   pages={7396--7404},
+   year={2024}
+   }
+   ```
 <!-- CONTACT -->
 ## Contact
 
