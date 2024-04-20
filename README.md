@@ -166,7 +166,9 @@ For packages, see environment.yaml.
    ```sh
    python test.py
    ```
-
+### News
+   We propose a new framework, called LSAST(IJCAI2024), which can generate more highly realistic artistic stylized images and preserve the content structure better. You can follow it from [LSAST](https://github.com/Jamie-Cheung/LSAST)
+   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
