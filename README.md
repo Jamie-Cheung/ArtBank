@@ -153,7 +153,7 @@ For packages, see environment.yaml.
    ```
    See `configs/stable-diffusion/v1-finetune.yaml` for more options
    
-   Download the collection of artworks (https://drive.google.com/drive/folders/1_2jykbjVCF6SqJisvIt5-4fAFzVAj-F0?usp=drive_link) and put style images into ./image.
+   Download the collection of artworks (https://drive.google.com/drive/folders/1_2jykbjVCF6SqJisvIt5-4fAFzVAj-F0?usp=drive_link) and put style images into ./images.
    
    Download the pretrained [Stable Diffusion Model](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original/resolve/main/sd-v1-4.ckpt) and save it at ./models/sd/sd-v1-4.ckpt.
    
